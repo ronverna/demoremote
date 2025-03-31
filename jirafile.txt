@@ -1,0 +1,4 @@
+today learnt the jira bascics, how to create a ticket, about the epic, story , task. watch it on dashboard and giving points . using agile method , use of sprints, assigning task to person a, 
+automation in jira 
+connecting jira slack
+connecting jira and github
